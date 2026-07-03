@@ -1,0 +1,142 @@
+{
+  "black-launch-mood": {
+    "src": "/images/projects/extracted/black-launch-mood.webp",
+    "width": 1800,
+    "height": 938
+  },
+  "black-system": {
+    "src": "/images/projects/extracted/black-system.webp",
+    "width": 1800,
+    "height": 760
+  },
+  "black-moodboard": {
+    "src": "/images/projects/extracted/black-moodboard.webp",
+    "width": 1700,
+    "height": 860
+  },
+  "black-campaign-board": {
+    "src": "/images/projects/extracted/black-campaign-board.webp",
+    "width": 1800,
+    "height": 785
+  },
+  "black-commerce": {
+    "src": "/images/projects/extracted/black-commerce.webp",
+    "width": 1800,
+    "height": 777
+  },
+  "black-assets": {
+    "src": "/images/projects/extracted/black-assets.webp",
+    "width": 1800,
+    "height": 739
+  },
+  "warm-cover-visual": {
+    "src": "/images/projects/extracted/warm-cover-visual.webp",
+    "width": 1700,
+    "height": 760
+  },
+  "warm-visual-world": {
+    "src": "/images/projects/extracted/warm-visual-world.webp",
+    "width": 1500,
+    "height": 760
+  },
+  "warm-detail-page": {
+    "src": "/images/projects/extracted/warm-detail-page.webp",
+    "width": 1600,
+    "height": 820
+  },
+  "warm-texture": {
+    "src": "/images/projects/extracted/warm-texture.webp",
+    "width": 1800,
+    "height": 520
+  },
+  "warm-series-world": {
+    "src": "/images/projects/extracted/warm-series-world.webp",
+    "width": 1580,
+    "height": 760
+  },
+  "warm-product-system": {
+    "src": "/images/projects/extracted/warm-product-system.webp",
+    "width": 1620,
+    "height": 820
+  },
+  "warm-commerce-assets": {
+    "src": "/images/projects/extracted/warm-commerce-assets.webp",
+    "width": 1800,
+    "height": 728
+  },
+  "warm-toolkit-assets": {
+    "src": "/images/projects/extracted/warm-toolkit-assets.webp",
+    "width": 1500,
+    "height": 780
+  },
+  "warm-38-mood": {
+    "src": "/images/projects/extracted/warm-38-mood.webp",
+    "width": 1800,
+    "height": 938
+  },
+  "warm-38-visual": {
+    "src": "/images/projects/extracted/warm-38-visual.webp",
+    "width": 1800,
+    "height": 720
+  },
+  "warm-38-assets": {
+    "src": "/images/projects/extracted/warm-38-assets.webp",
+    "width": 1600,
+    "height": 840
+  },
+  "chimelong-photo-asset": {
+    "src": "/images/projects/extracted/chimelong-photo-asset.webp",
+    "width": 880,
+    "height": 930
+  },
+  "chimelong-zhuhai": {
+    "src": "/images/projects/extracted/chimelong-zhuhai.webp",
+    "width": 1540,
+    "height": 560
+  },
+  "chimelong-qingyuan": {
+    "src": "/images/projects/extracted/chimelong-qingyuan.webp",
+    "width": 1600,
+    "height": 560
+  },
+  "chimelong-guangzhou": {
+    "src": "/images/projects/extracted/chimelong-guangzhou.webp",
+    "width": 1600,
+    "height": 560
+  },
+  "chimelong-hero": {
+    "src": "/images/projects/extracted/chimelong-hero.webp",
+    "width": 1220,
+    "height": 560
+  },
+  "chimelong-fantasy": {
+    "src": "/images/projects/extracted/chimelong-fantasy.webp",
+    "width": 1580,
+    "height": 680
+  },
+  "chimelong-resort": {
+    "src": "/images/projects/extracted/chimelong-resort.webp",
+    "width": 1800,
+    "height": 649
+  },
+  "packaging-blue": {
+    "src": "/images/projects/extracted/packaging-blue.webp",
+    "width": 1540,
+    "height": 650
+  },
+  "packaging-illustration": {
+    "src": "/images/projects/extracted/packaging-illustration.webp",
+    "width": 1420,
+    "height": 740
+  },
+  "red-symbol": {
+    "src": "/images/projects/extracted/red-symbol.webp",
+    "width": 1580,
+    "height": 900
+  },
+  "red-campaign": {
+    "src": "/images/projects/extracted/red-campaign.webp",
+    "width": 1680,
+    "height": 820
+  }
+}

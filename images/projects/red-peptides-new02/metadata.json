@@ -1,0 +1,27 @@
+{
+  "page-01": {
+    "src": "/images/projects/red-peptides-new02/page-01.webp",
+    "width": 2220,
+    "height": 1380
+  },
+  "page-02": {
+    "src": "/images/projects/red-peptides-new02/page-02.webp",
+    "width": 2220,
+    "height": 1380
+  },
+  "page-03": {
+    "src": "/images/projects/red-peptides-new02/page-03.webp",
+    "width": 2220,
+    "height": 1380
+  },
+  "page-04": {
+    "src": "/images/projects/red-peptides-new02/page-04.webp",
+    "width": 2220,
+    "height": 1380
+  },
+  "page-05": {
+    "src": "/images/projects/red-peptides-new02/page-05.webp",
+    "width": 2220,
+    "height": 1380
+  }
+}
